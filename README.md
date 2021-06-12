@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nazariaskar7
+- 👋 Hi, I’m Askar Nazari From Kabul City Afghanistan
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning HTML5 CSS3 && Javascript
 - 💞️ I’m looking to collaborate on Fullstack web developing
